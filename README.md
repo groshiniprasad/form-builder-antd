@@ -1,5 +1,5 @@
-## Google Forms Clone 
-This is a google form clone created with ReactJs.
+## Generic Form Builder
+This works similarly to the Google forms 
 #### Features
 - Add/Delete Elements
 - Duplicate ELements
@@ -12,6 +12,7 @@ This is a google form clone created with ReactJs.
     - NumberInput
     - DateInput
     - TimeInput
+    - DropDown 
 
 #### Usage
 ```bash
